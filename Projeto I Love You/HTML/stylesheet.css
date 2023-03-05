@@ -1,0 +1,114 @@
+/*CSS Document*/
+body {
+    padding: 10px;
+    background:rgb(109, 189, 221); 
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+  .card {
+    background-color: rgba(6, 96, 138, 0.3);
+
+    padding: 10px;
+
+    border-radius: 2px;
+
+    width:100%;
+
+    text-align: center;
+
+  }
+
+  #Cabeçalho {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    height: 30%;
+  
+  }
+  .card-login { 
+    display: inline-table;
+    text-align: right;
+  }
+  .card-cadastro { 
+    display: inline-table;
+    text-align: right;
+  }
+  .card-menu { 
+    display: inline-table;
+    text-align: left;
+}
+
+  .card-aside {
+    background-color:rgb(248, 49, 149);
+
+    padding: 10px;
+
+    border-radius: 2px;
+
+    width:30%;
+
+    display:inline-table;
+  }
+  .card-content { 
+    background-color:hotpink;
+
+    padding: 10px;
+
+    border-radius: 2px;
+
+    width:30%;
+
+    display: inline-table
+
+
+  }
+.card-content-1 { 
+  background-color:rgb(248, 49, 149);
+
+  padding: 10px;
+
+  border-radius: 2px;
+
+  width:30%;
+
+  display: inline-table
+}
+
+  .card-content-2{ 
+    background-color:hotpink;
+
+    padding: 10px;
+
+    border-radius: 2px;
+
+    width:30%;
+
+    display: inline-table
+
+
+  }
+.card-content-3 { 
+  background-color:rgb(248, 49, 149);
+
+  padding: 10px;
+
+  border-radius: 2px;
+
+  width:30%;
+
+  display: inline-table
+}
+  
+  #footer {
+    background-color: rgba(6, 96, 138, 0.3);
+
+    align-items: center;
+
+    font-size: 12px;
+
+    opacity: 0.8;
+
+  }
